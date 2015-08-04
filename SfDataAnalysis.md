@@ -51,3 +51,14 @@ The fact is that whether you think the week starts on Sunday or Monday, the set 
 ```R
 data$DayOfWeek = ordered(data$DayOfWeek, levels=c('Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'))
 ```
+
+
+and big R
+
+```R
+sort(unique(data$Descript))
+
+hello <- function( name ) {
+    sprintf( "Hello, %s", name );
+}
+```
