@@ -55,7 +55,7 @@ sort(unique(data$Descript))
 hello <- function( name ) {
     sprintf( "Hello, %s", name );
 }
-{% end highlight %}
+{% endhighlight %}
 
 
 boop
