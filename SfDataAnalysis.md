@@ -53,7 +53,7 @@ data$DayOfWeek = ordered(data$DayOfWeek, levels=c('Sunday','Monday','Tuesday','W
 ```
 
 
-and big R
+and big RRrrr
 
 ```R
 sort(unique(data$Descript))
