@@ -47,7 +47,7 @@ data$DayOfWeek = ordered(data$DayOfWeek, levels=c('Sunday','Monday','Tuesday','W
 ```
 
 
-and big RRrrr liquid
+and big RRrrr liquid bop
 
 {% highlight R %}
 sort(unique(data$Descript))
