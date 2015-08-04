@@ -49,13 +49,13 @@ data$DayOfWeek = ordered(data$DayOfWeek, levels=c('Sunday','Monday','Tuesday','W
 
 and big RRrrr liquid
 
-{% highlight R%}
+{% highlight R% }
 sort(unique(data$Descript))
 
 hello <- function( name ) {
     sprintf( "Hello, %s", name );
 }
-{% end highlight}
+{% end highlight %}
 
 
 boop
